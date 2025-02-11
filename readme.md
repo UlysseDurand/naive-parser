@@ -6,7 +6,7 @@ It was mostly about making a compiler with a naive approach, I made my own type 
 
 This was meant to be presented at the ENS entrance exam in 2021 but as the written exam grades were unsufficient, this was not be presented, this is why there are no slides.
 
-The report can be found ![here](https://github.com/UlysseDurand/CalculFormel/blob/master/readme/calculformel.pdf)
+The report can be found ![here](https://gitlab.com/ulysse_durand/calcul-formel/-/blob/master/readme/calculformel.pdf?ref_type=heads)
 
 Il s'agit d'un projet sans se documenter, il a été réalisé juste avec les connaissances d'option informatique, notamment concernant les automates. Le but étant de forcer la réflexion et la créativité, et de redécouvrir par soi même des concepts déjà existants.
 
