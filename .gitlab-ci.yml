@@ -20,12 +20,11 @@ deploy-coderunner:
   stage: deploy
   extends: .deploy-coderunner
   variables:
-    TITLE: "Preuves grammaires"
-    HEADLINE: "Try it out ! Preuves grammaires"
+    TITLE: "Calcul formel"
+    HEADLINE: "Try it out ! Calcul formel"
     LANG: ocaml
-    OUTLANG: ocaml
     API_URL: https://api-calcul-formel.uldr.fr
-    DESC: "New functions can be used: preprocessgf, interditfort, recherchepreuvenaif, recherchepreuve."
+    DESC: "New functions can be used: latex_en_expression, derive, simplifiebis and affiche."
 
 pages:
   stage: deploy
