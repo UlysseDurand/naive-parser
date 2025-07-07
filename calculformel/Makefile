@@ -8,6 +8,9 @@ all:
 	
 compile:
 	@ocamlopt misc.ml automate_affiche.ml automate_parse.ml analyse.ml main.ml -o calculformel
+
+compile2:
+	@ocamlopt misc.ml automate_affiche.ml automate_parse.ml analyse.ml main2.ml -o calculformel
 	
 clean:
 	@rm -f *.cmi
