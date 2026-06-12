@@ -1,0 +1,5 @@
+description: 'Naïve attempt at building an OCaml parser and walker for math expressions with a new type of automaton (writer with memory). Also includes math expression differentiation, evaluation and simplification.'
+demo: 'https://ulysse_durand.gitlab.io/calcul-formel/code-runner/' 
+start_date: 2020
+end_date: 2021
+
